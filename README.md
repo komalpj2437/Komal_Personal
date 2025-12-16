@@ -1,8 +1,3 @@
 # Komal_Personal
-Java_projects
-new file addition and commit
-shjsjsk
-ygg
-swgsjbxsjx b
-abcd
-XYZ
+GitConnect
+git branches
